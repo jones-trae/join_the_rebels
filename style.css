@@ -19,10 +19,12 @@ button {
 #ewoks {
     width: 700px;
     height: 400px;
+    border: red;
 }
 
 #emp {
     width: 700px;
+    border: red;
 }
 section {
 
