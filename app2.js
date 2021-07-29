@@ -1,2 +1,2 @@
-function goodGood()
-{alert('Goooood.....GOOOOOD!')}
+//function goodGood()
+//{alert('Goooood.....GOOOOOD!')}
